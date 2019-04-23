@@ -2,3 +2,15 @@
     background-color:khaki;
     padding: 20px;
 }
+
+ul li {
+    float:left;
+}
+
+
+a:visited{
+    color:rebeccapurple;
+}
+a:hover {
+    color: green;
+}
